@@ -1,0 +1,13 @@
+Tasks
+	URL				-	https://youtu.be/cP8elTLKGhI
+					-	https://www.youtube.com/watch?v=cP8elTLKGhI
+
+	Cinemachine track in timeline
+	HDRP with car	-	Car Free: https://3dsky.org/login (CCX)
+	Materials		-	Measured Material library.
+					-	Add material changer scripts in runtime
+
+
+************************************************************************
+
+

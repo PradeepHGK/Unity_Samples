@@ -5,9 +5,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.Fbx.Runtime", "Unity.Formats.Fbx.Runtime.csproj", "{C65925EA-C86F-81B5-CFF3-D12B294019BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_PLAYMODE", "Tests_PLAYMODE.csproj", "{512517D5-0EAE-1E44-E29B-E84A3D7E4D11}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.Fbx.Editor", "Unity.Formats.Fbx.Editor.csproj", "{0858308F-E5C2-047D-4DD3-A5A000F7B9E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{C7A19D5E-08D2-4336-A706-1725D855D9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorTestMode", "EditorTestMode.csproj", "{B567F23C-1447-1F9E-5CB9-59DEB53F7432}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,10 @@ Global
 		{C65925EA-C86F-81B5-CFF3-D12B294019BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C65925EA-C86F-81B5-CFF3-D12B294019BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C65925EA-C86F-81B5-CFF3-D12B294019BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512517D5-0EAE-1E44-E29B-E84A3D7E4D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512517D5-0EAE-1E44-E29B-E84A3D7E4D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512517D5-0EAE-1E44-E29B-E84A3D7E4D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512517D5-0EAE-1E44-E29B-E84A3D7E4D11}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0858308F-E5C2-047D-4DD3-A5A000F7B9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0858308F-E5C2-047D-4DD3-A5A000F7B9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0858308F-E5C2-047D-4DD3-A5A000F7B9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,6 +39,10 @@ Global
 		{C7A19D5E-08D2-4336-A706-1725D855D9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A19D5E-08D2-4336-A706-1725D855D9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7A19D5E-08D2-4336-A706-1725D855D9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B567F23C-1447-1F9E-5CB9-59DEB53F7432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B567F23C-1447-1F9E-5CB9-59DEB53F7432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B567F23C-1447-1F9E-5CB9-59DEB53F7432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B567F23C-1447-1F9E-5CB9-59DEB53F7432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

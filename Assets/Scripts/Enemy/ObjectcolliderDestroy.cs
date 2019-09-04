@@ -33,6 +33,7 @@ public class ObjectcolliderDestroy : MonoBehaviour
             if (transform.localScale == Vector3.zero)
             {
                 isScalingdown = false;
+                float perlinoise = Mathf.PerlinNoise(0.5f, 1.5f);    
             }
         }
     }
